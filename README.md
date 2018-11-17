@@ -6,7 +6,7 @@
 \* Best viewed with [LibreOffice](https://www.libreoffice.org/download/libreoffice-fresh/).
 
 <img src="images/Duplications_VennDiagram_BW.png" width=390 height=285>
-> Example figure visualizing a profiling criteria (colored version is in the article)
+*Example figure visualizing a profiling criteria (colored version is in the article)*
 
 ## Contents of Tables/Extra Material
 * **Table I.**	Reviewed Android Mobile Malware Datasets
