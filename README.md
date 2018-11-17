@@ -1,4 +1,5 @@
-# DsProfiling - A Research Compedium of "New Techniques in Profiling Big Datasets for Machine Learning with A Concise Review of Android Mobile Malware Datasets"
+# DsProfiling – Dataset Profiling
+### A Research Compedium of "New Techniques in Profiling Big Datasets for Machine Learning with A Concise Review of Android Mobile Malware Datasets"
 #### Gürol Canbek, Seref Sagiroglu, and Tugba Taskaya Temizel, “New Techniques in Profiling Big Datasets for Machine Learning with A Concise Review of Android Mobile Malware Datasets”, In The proceedings of International Congress on Big Data, Deep Learning, and Fighting Cyber Terrorism, Ankara, Turkey: IEEE, December 2018.
 * ![Tables/Extra Materials (Open Document Spread Sheet)](DsProfiling_TablesExtraMaterials.ods)\*
 * with novel ![dsprofiling.R](dsprofiling.R) - An R script to calculate some of the profiling criteria (will be updated later) 
