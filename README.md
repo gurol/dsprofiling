@@ -1,6 +1,13 @@
-# DsProfiling – Dataset Profiling
-### A Research Compedium of "New Techniques in Profiling Big Datasets for Machine Learning with A Concise Review of Android Mobile Malware Datasets"
-#### Gürol Canbek, Seref Sagiroglu, Tugba Taskaya Temizel, “*New Techniques in Profiling Big Datasets for Machine Learning with A Concise Review of Android Mobile Malware Datasets**”, International Congress on Big Data, Deep Learning & Fighting Cyber Terrorism (IBIGDELFT 2018), 3–4 December 2018: IEEE.
+## DsProfiling – Dataset Profiling: A Research Compedium of
+# New Techniques in Profiling Big Datasets for Machine Learning with A Concise Review of Android Mobile Malware Datasets
+
+[![Last-changedate](https://img.shields.io/badge/last%20change-2019--02--07-brightgreen.svg)](https://github.com/gurol/dsporifling) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)  [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--9337--097X-green.svg)](https://orcid.org/0000-0002-9337-097X)
+
+This platform is a research compedium of our academic publication below.
+
+> [Gürol Canbek](http:gurol.canbek.com/Publications), Seref Sagiroglu, and Tugba Taskaya Temizel. “*New Techniques in Profiling Big Datasets for Machine Learning with A Concise Review of Android Mobile Malware Datasets*”, International Congress on Big Data, Deep Learning & Fighting Cyber Terrorism (IBIGDELFT 2018), 3–4 December 2018: IEEE.
+
+Full-text is available at https://ieeexplore.ieee.org/document/8625275. The contents:
 * ![Tables/Extra Materials (Open Document Spread Sheet)](DsProfiling_TablesExtraMaterials.ods)\*
 * with novel ![dsprofiling.R](dsprofiling.R) - An R script to calculate some of the profiling criteria (will be updated later)
 * The presentation given in the conference is also available.
