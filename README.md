@@ -7,7 +7,7 @@ This platform is a research compedium of our academic publication below.
 
 > [Gürol Canbek](http:gurol.canbek.com/Publications), Seref Sagiroglu, and Tugba Taskaya Temizel. “*New Techniques in Profiling Big Datasets for Machine Learning with A Concise Review of Android Mobile Malware Datasets*”, International Congress on Big Data, Deep Learning & Fighting Cyber Terrorism (IBIGDELFT 2018), 3–4 December 2018: IEEE.
 
-Full-text is available at https://ieeexplore.ieee.org/document/8625275. The contents:
+Full-text is available at [ResearchGate](https://www.researchgate.net/publication/329389722_New_Techniques_in_Profiling_Big_Datasets_for_Machine_Learning_with_A_Concise_Review_of_Android_Mobile_Malware_Datasets) and [IEEE Xplore](https://ieeexplore.ieee.org/document/8625275). The contents:
 * ![Tables/Extra Materials (Open Document Spread Sheet)](DsProfiling_TablesExtraMaterials.ods)\*
 * with novel ![dsprofiling.R](dsprofiling.R) - An R script to calculate some of the profiling criteria (will be updated later)
 * The presentation given in the conference is also available.
